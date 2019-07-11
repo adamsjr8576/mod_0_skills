@@ -14,4 +14,4 @@
 2. ChangeColor: (modify penColor attribute)
 3. isPointSize: (pull float from penPointSize)
 4. isRefillable: (check value of attribute refillable)
-5. changePointType: (modify penPointType attribute)
+5. changeCapType: (modify penCapType attribute)
